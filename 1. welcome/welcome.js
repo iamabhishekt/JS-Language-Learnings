@@ -1,7 +1,7 @@
-console.log('I like pizza!');
-console.log('It\'s really good!');
+console.log(`I like pizza!`);
+console.log(`It's really good!`);
 
-window.alert('I really love pizza!');
+window.alert(`I REALLY LOVE PIZZA!`);
 
 //This is a comment
 
